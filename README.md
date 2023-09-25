@@ -103,5 +103,18 @@
     src="/images/12.png">
 </details>  
 
+### Управление транзакциями в микросервисной архитектуре  
 
+
+<details>
+    <summary>Операция createOrder() обновляет данные в нескольких сервисах</summary> 
+    <image
+    src="/images/15.png">
+</details>  
+
+<details>
+    <summary>Пример повествования: создание заказа</summary> 
+    <image
+    src="/images/16.png">
+</details>  
 
