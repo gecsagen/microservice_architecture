@@ -148,3 +148,15 @@
     <image
     src="/images/19.png">
 </details>  
+
+<details>
+    <summary>Пример архитектуры сервиса Order и его повествований</summary> 
+    <image
+    src="/images/20.png">
+</details>  
+
+<details>
+    <summary>Фреймворк Eventuate Tram Saga для создания повествований</summary> 
+    <image
+    src="/images/21.png">
+</details>  
