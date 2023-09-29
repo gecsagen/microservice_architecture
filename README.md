@@ -219,3 +219,15 @@ I [равило состоит в том, что агрегаты ссылают
     <image
     src="/images/27.png">
 </details>  
+
+<details>
+    <summary>Бизнес-логика сервиса Kitchen (пример)</summary> 
+    <image
+    src="/images/28.png">
+</details>  
+
+<details>
+    <summary>Бизнес-логика сервиса Order (пример)</summary> 
+    <image
+    src="/images/29.png">
+</details>  
