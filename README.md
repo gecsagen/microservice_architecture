@@ -34,7 +34,7 @@
 
 ## Часть 2
 <details>
-<summary>Архитектура, сравнение, связанность:</summary> 
+<summary>Архитектура, сравнение, связанность</summary> 
 <ul>
 <details>
     <summary>Сравнение микросервисов и SOA</summary> 
